@@ -1,5 +1,5 @@
 # nusax_lime_shap
-
+project to add lime values into csv files
 datasets_results folder contains NusaX sentiment datasets with added columns : prediction probability, prediction label, LIME weights  
   
 Model used : SVC(C=1, kernel='linear', probability=True)  
